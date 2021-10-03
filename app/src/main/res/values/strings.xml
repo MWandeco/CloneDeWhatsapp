@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WhatsAppClone</string>
+    <string name="senha">Senha</string>Senha
+    <string name="email">Digite seu E-Mail</string>
+    <string name="nome">Digite seu Nome</string>
+    <string name="btn_logar">Logar</string>
+    <string name="cadastre_se">Não possui conta? Cadastre-se</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="pesquisar">Pesquisar</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="sair">Sair</string>
+    <string name="conversas">Conversas</string>
+    <string name="contatos">Contatos</string>
+    <string name="userName">Nome do usuário</string>
+    <string name="warning">Este nome não é seu usuário nem sua senha, ele ficará visível apenas para seus contados do Whatsapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="grupo">Novo Grupo</string>
+    <string name="title_activity_group">GroupActivity</string>
+    <string name="nomeGrupo">Defina um nome e uma imagem(opconal).</string>
+    <string name="participantes">Participantes : </string>
+</resources>
